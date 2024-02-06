@@ -1,0 +1,17 @@
+
+# sonarQuber server config list
+server_url=http://localhost:9000
+sonar_token=
+sonar_project_key=
+sonar_project_description=this is demo description
+
+# elasticsearch config list
+elasticsearch_url=http://localhost:9200
+elasticsearch_tag=
+kibana_tag=
+elasticsearch_port=9200
+kibana_port=5601
+elasticsearch_container=elasticsearch
+kibana_container=kibana
+PORT=8080
+
